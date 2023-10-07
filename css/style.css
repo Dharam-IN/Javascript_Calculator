@@ -31,6 +31,7 @@ body{
     font-size: 40px;
     text-align: right;
     cursor: pointer;
+    color: #fff;
 }
 .calculator input::placeholder{
     color: #fff;
